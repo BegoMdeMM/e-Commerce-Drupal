@@ -1,0 +1,17 @@
+name: Freelinking
+type: module
+description: A filter that provides flexible, extensible, wiki-style linking of content.
+package: Input filters
+# core: 8.x
+dependencies:
+  - filter
+
+# Routing probably needs more work.
+# See: https://www.drupal.org/node/1935708
+# configure: freelinking.admin
+
+# Information added by Drupal.org packaging script on 2016-12-10
+version: '8.x-3.x-dev'
+core: '8.x'
+project: 'freelinking'
+datestamp: 1481384286
