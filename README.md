@@ -11,7 +11,7 @@ Drupal es un sistema de gestión de contenidos libre, modular, multipropósito y
       Internet, también destaca por su flexibilidad y adaptabilidad, así como la gran cantidad de
       módulos adicionales disponibles.
 
-* Motivacion.
+* Motivación.
     - Realizacion de un sitio web en Drupal desde cero cumpliendo con unos
        requisitos determinados. Drupal es un Framework potente que simplifica la tarea de
        programar una página web en PHP desde cero.
