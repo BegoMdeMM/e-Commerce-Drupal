@@ -1,12 +1,9 @@
 # e-Commerce-Drupal
 Online commerce application developed under Drupal framework
 
-* Herrmienta.
+* Herramienta.
 
-Drupal es un sistema de gestión de contenidos libre, modular, multipropósito y muy
-configurable que permite publicar artículos, imágenes, archivos y que también ofrece la
-posibilidad de otros servicios añadidos como foros, encuestas, votaciones, blogs y
-administración de usuarios y permisos.
+Drupal es un sistema de gestión de contenidos libre, modular, multipropósito y muy configurable que permite publicar artículos, imágenes, archivos y que también ofrece la posibilidad de otros servicios añadidos como foros, encuestas, votaciones, blogs y administración de usuarios y permisos.
     -Descripcion de la herramienta.
       Es un programa libre, con licencia GNU/GPL, escrito en PHP, combinable con MySQL,
       desarrollado y mantenido por una activa comunidad de usuarios.
@@ -30,4 +27,4 @@ administración de usuarios y permisos.
       de este modo se puede trabajar en equipo sin dependencias.
       
 # Documentacion
-   Pdf. 
+[Ver pdf](https://github.com/BegoMdeMM/e-Commerce-Drupal/blob/main/Documents/Documentacion_Drupal.pdf)
